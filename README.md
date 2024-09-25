@@ -3,7 +3,7 @@ Repo to check if react component rerender when prop change
 
 ##Structure
 ```
-├── layyout
+├── layout
     └── page
         └── Parent
             └── Child
